@@ -1,4 +1,4 @@
-## Hey, I'm Max ☀️
+## Oi, I'm Max ☀️
 
 I build things that automate the boring parts of life,
 robots, smart home setups, data pipelines, and ad workflows.
