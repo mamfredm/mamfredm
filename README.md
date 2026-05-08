@@ -7,10 +7,9 @@ robots, smart home setups, data pipelines, and ad workflows.
 - 🏠 Smart home automation (Home Assistant, Raspberry Pi)
 - 📈 Google Ads scripts & campaign automation
 - ⚡ General automation (shell, Python, AI tooling)
-- 🤖 Robotics & robot arm control
 
 
-**Currently tinkering with:** Raspberry Pi 5, AI agents, Ad Workflows
+**Currently tinkering with:** Raspberry Pi's & ESP32, AI agents, Ad Workflows
 
 ---
 *Always open to interesting side projects and collabs.* 🐒
