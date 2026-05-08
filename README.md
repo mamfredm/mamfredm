@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hey, I'm Max ☀️
 
-<!--
-**mamfredm/mamfredm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build things that automate the boring parts of life,
+robots, smart home setups, data pipelines, and ad workflows.
 
-Here are some ideas to get you started:
+**What I work on:**
+- 🏠 Smart home automation (Home Assistant, Raspberry Pi)
+- 📈 Google Ads scripts & campaign automation
+- ⚡ General automation (shell, Python, AI tooling)
+- 🤖 Robotics & robot arm control
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**Currently tinkering with:** Raspberry Pi 5, AI agents, Ad Workflows
+
+---
+*Open to interesting side projects and collabs.* 🐒
