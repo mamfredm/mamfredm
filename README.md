@@ -13,4 +13,4 @@ robots, smart home setups, data pipelines, and ad workflows.
 **Currently tinkering with:** Raspberry Pi 5, AI agents, Ad Workflows
 
 ---
-* Always open to interesting side projects and collabs.* 🐒
+*Always open to interesting side projects and collabs.* 🐒
